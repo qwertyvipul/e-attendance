@@ -2,7 +2,7 @@
 
 Objective - Attendance process digitalization.
 
-Prequisites - Install Oracle SQL Developer
+Prerequisites - Install Oracle SQL Developer
 
 Order of execution of scripts
 --1. Create Table.sql
