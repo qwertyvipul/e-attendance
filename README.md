@@ -1,7 +1,5 @@
 # sophomore_dbms_project
 
-This was my Sophomore Year Oracle DBMS Project.
-
 Objective - Attendance process digitalization.
 
 Prequisites - Install Oracle SQL Developer
