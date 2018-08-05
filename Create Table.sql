@@ -1,6 +1,5 @@
 clear scr;
 
-
 --WHEN FRESH SEQUENCE AND TABLE REQUIRED
 drop table atd_log;
 drop table atd_info;
